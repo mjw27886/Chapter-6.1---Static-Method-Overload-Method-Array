@@ -1,6 +1,6 @@
 public class Calculator {
 	public static double getSum(double one, double two, double three){
-		return one+two+three;
+	return one+two+three;
 }
 	public static double getSum(double [] num) {
 	double sum = 0.0;
